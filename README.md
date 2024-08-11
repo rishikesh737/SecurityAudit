@@ -24,8 +24,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ## Completed Security Audit Checklist
 
-<a href="[SecurityAuditChecklist.docx](https://github.com/user-attachments/files/16573376/SecurityAuditChecklist.docx)
-"><img src="https://img.shields.io/badge/-MSword:Security Audit Checklist-0072b1?&style=for-the-badge&logo=word&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1Kb7iYaSfQvwlBihvcrle33uXFqdoqKPlxM4_ZIoXSBs/edit?usp=sharing
+"><img src="https://img.shields.io/badge/-GoogleDOCS:Security Audit Checklist-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 
 ### Skills Learned
