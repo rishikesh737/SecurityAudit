@@ -17,9 +17,9 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 **Supporting Materials :**
 
-<a href="https://d3c33hcgiwev3.cloudfront.net/Cf51n9nbSD68ZTB5tTf3sA_a7545121c27b41a2b32db66f1cde7bf1_Botium-Toys-Scope-goals-and-risk-assessment-report.docx?Expires=1723507200&Signature=XcTzblQrAuiYEc3oYV06OKQMG3C6qKz6-r8Ae7fLvJSYvQVDuArQcXLAWBkRe03n36u8Hi~RLhzAE9hPU0ecSgSvzsAjQ~iWxi1Md0XjYw1NDlReZZq7rSaoxE~VMSk8oEiIEz0E-CrAzNQuroM36rMmcScRgOhtEFT7F9Pvpgw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"><img src="https://img.shields.io/badge/-MSword:Risk Assessment Report-0072b1?&style=for-the-badge&logo=word&logoColor=white" /></a>
-<a href="https://d3c33hcgiwev3.cloudfront.net/UlCuw8LhSSqoHh2mqEAU0g_a1ed3f7f746c4071ae68b52dd07e4df1_Control-categories.docx?Expires=1723507200&Signature=T~0F1idr8XCj9OLXF2xqDqYD4T7yGXDb6CvIJPyCdcGnghLAkKv8ajqv7QcjS3ldeEVbfNneUTOyO7tmqgMFeaAMb-BOafKAjoJXbmuUgtRwXn4MRoLVJWUmlgZdUrGTU5ZJem2JyY~j0MMPsxk5U0oAS6X8~Cl-7XTa-4GOObU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"><img src="https://img.shields.io/badge/-MSword:Control Categories-0072b1?&style=for-the-badge&logo=word&logoColor=white" /></a>
-<a href="https://d3c33hcgiwev3.cloudfront.net/sE_0LUF0RqCuA0FAF0KCPA_ef185c6c047247f882a8658018018df1_Controls-and-compliance-checklist.docx?Expires=1723507200&Signature=KfQznVeWr8O9eIJiAt6E6xv-gyBskQdXgzCrN~NcnUefRbE9rSEZOTWxWrbvGyv3XzbydkuQKb987dkmfZ0OGpXxosP9BhdvHnESo7Ww4p-A9MvQuQz9IG7bmnGOIMyMCcyZslCqfIiJYOZ43F0jzee~q4Oo6sG9g4a8VPNP4L0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"><img src="https://img.shields.io/badge/-MSword:Controls and Compliance Checklist-0072b1?&style=for-the-badge&logo=word&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1wtnj7nTu1TQop1ybPDgMADww8IX4HVbPCeH_nVE2vvM/edit?usp=sharing"><img src="https://img.shields.io/badge/-GoogleDOCS:Risk Assessment Report-FFFF?&style=for-the-badge&logo=word&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1HOQbfHSzp2x73NCQFBUj-stLRJsAgIRbj00vuuFxWeg/edit?usp=sharing&resourcekey=0-sTgE0HX_OzgnGq9Iefrrsw"><img src="https://img.shields.io/badge/-GoogleDOCS:Control Categories-FFFF?&style=for-the-badge&logo=word&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/184bg1TbeOAOl5Ftfh_nlbb2XE92rgRZ3m-_kvHlZZ4U/edit?usp=sharing"><img src="https://img.shields.io/badge/-GoogleDOCS:Controls and Compliance Checklist-FFFF?&style=for-the-badge&logo=word&logoColor=white" /></a>
 
 
 ## Completed Security Audit Checklist
@@ -30,9 +30,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ### Skills Learned
 
-Audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
-
-Controls and Compliances
+Security Controls and Compliances
 
 Security Risk Assesment
 
